@@ -1,7 +1,6 @@
-# conosleditor
+# consoleditor (File editor in terminal)
 : NO FURTHER DEVELOPMENTS,PROJECT HAULTED !
 
-Console based editor in C
-
-* Wrote it to learn low level operations in C 
-* Inspiration credit goes to Antirez's Kilo
+* Language Used : C
+* Implementation Aim : Implementation in C / Learning system calls and data storage
+* Inspiration and credits : https://github.com/antirez/kilo 
