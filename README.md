@@ -3,10 +3,10 @@
 
 ## About Project / Phases
 
-[x] P1. Study/Implement the project in C     
-[ ] P2. Implement the project in C++       
-[ ] P3. Migrate the basic functionalities of the project to C++
-[ ] P4 
+1. [x] Study/Implement the project in C     
+2. [ ] Implement the project in C++       
+3. [ ] Migrate the basic functionalities of the project to C++
+4. C++ and beyond 
   - [ ] Add formatting : Copy / Paste function
   - [ ] Multiple Buffers : Add and close multiple files
 
