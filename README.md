@@ -1,9 +1,14 @@
 # consoleditor
 > v0.2 | Under Development 🚧👷‍♂️ !
 
-## About Project
+## About Project / Phases
 
-* 
+[x] P1. Study/Implement the project in C     
+[ ] P2. Implement the project in C++       
+[ ] P3. Migrate the basic functionalities of the project to C++
+[ ] P4 
+  - [ ] Add formatting : Copy / Paste function
+  - [ ] Multiple Buffers : Add and close multiple files
 
 ## Technical Overview
 
