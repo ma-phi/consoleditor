@@ -7,7 +7,7 @@
 2. [ ] Implement the project in C++       
 3. [ ] Migrate the basic functionalities of the project to C++
 
-4. C++ and beyond 
+- C++ and beyond 
   - [ ] Add formatting : Copy / Paste function
   - [ ] Multiple Buffers : Add and close multiple files
 
