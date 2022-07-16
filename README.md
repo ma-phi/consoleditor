@@ -1,6 +1,8 @@
 # consoleditor
 > v0.2 | Under Development 🚧👷‍♂️ !
 
+![Screen Shot](assets/1.png)
+
 ## About the project
 
 * Implementation Aim : C and calls, flags implementation
