@@ -1,9 +1,15 @@
 # [ConsolEditor](https://github.com/code-manas/Consoleditor)
 Terminal based file/text-stream editor (like nano) 
 
+<<<<<<< HEAD
 # ConsolEditor v0.1 : 
 - Read/Write function on regular files
 - Find/Syntax Highlighting for file types
+=======
+![Screen Shot](assets/1.png)
+
+## About the project
+>>>>>>> 40db2223d81d68d27a04e20549dd224070a451d7
 
 ## Purpose ?
 Learned :
