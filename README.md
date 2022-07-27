@@ -4,11 +4,6 @@ Terminal based file/text-stream editor (like nano)
 # ConsolEditor v0.1 : 
 - Read/Write function on regular files
 - Find/Syntax Highlighting for file types
-=======
-![Screen Shot](assets/1.png)
-
-## About the project
->>>>>>> 40db2223d81d68d27a04e20549dd224070a451d7
 
 ## Purpose ?
 Learned :
@@ -35,8 +30,8 @@ $ ./editor
 - [ ] v0.3 - Syntax Highlighting
 
 ## Tech Stack 
-> C++ (std 17)
-> CMake (GNU Make v4.3)
+- C++ (std 17)
+- CMake (GNU Make v4.3)
 
 ## Dependencies 
 - GNU Compiler Collection (GNU-CC) 
